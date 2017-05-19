@@ -1,2 +1,2 @@
 This is a practice of Android Studio.
-Familiar with textview, textfield, button, toast and simple java code.
+Each folder contains files that modified or added in Android Studio for different practice. 
